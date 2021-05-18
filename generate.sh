@@ -7,4 +7,4 @@ openssl req \
     -out server.crt \
     -config ./openssl-custom.cnf \
     -sha256 \
-    -days 365
+    -days 36500
